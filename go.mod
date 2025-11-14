@@ -8,3 +8,5 @@ require (
 	golang.org/x/sys v0.35.0
 	lukechampine.com/frand v1.5.1
 )
+
+replace github.com/awnumar/memcall => github.com/ppanda-godaddy/memcall-windows-compat
