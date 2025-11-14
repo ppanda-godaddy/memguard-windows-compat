@@ -9,4 +9,4 @@ require (
 	lukechampine.com/frand v1.5.1
 )
 
-replace github.com/awnumar/memcall => github.com/ppanda-godaddy/memcall-windows-compat
+replace github.com/awnumar/memcall => ../memcall-windows-compat
